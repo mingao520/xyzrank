@@ -7,15 +7,15 @@
         "podcastName": "数据会说话",
         "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/681c84bd24f855934693ffb9",
-        "playCount": 10763,
-        "commentCount": 171,
+        "playCount": 10982,
+        "commentCount": 172,
         "subscription": 7788,
         "duration": 33,
         "postTime": "2025-05-08T10:25:12.609Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 4,
-        "openRate": 1.3819979455572675,
-        "lastReleaseDateDayCount": 11.378706400462963
+        "openRate": 1.4101181304571135,
+        "lastReleaseDateDayCount": 12.378695219907408
       },
       {
         "title": "月薪1万卡3年？找到赚钱猛的老板，才愿意分你钱💰",
@@ -23,15 +23,15 @@
         "podcastName": "富女孩宝典",
         "logoURL": "https://xyzrank.justinbot.com/FupCUr-YH4Ker_WCnEB6QZT7OIiX.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/682346cbb7c8a9962ce98f60",
-        "playCount": 8693,
-        "commentCount": 114,
+        "playCount": 9493,
+        "commentCount": 120,
         "subscription": 27604,
         "duration": 104,
         "postTime": "2025-05-13T23:00:00.000Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 7,
-        "openRate": 0.3149181278075641,
-        "lastReleaseDateDayCount": 5.854546782407407
+        "openRate": 0.3438994348645124,
+        "lastReleaseDateDayCount": 6.854535601851852
       },
       {
         "title": "vol.11咱们北京哪哪都好，就是这儿差点意思！",
@@ -39,24 +39,40 @@
         "podcastName": "癫疯对谈",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/95/42/be/9542bec9-56df-5c6e-ebcf-caf9db9555ae/095c9f1d-a685-493d-8734-b28696e27e9d.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6824582c5ccf03732bd09f3d",
-        "playCount": 5791,
-        "commentCount": 108,
+        "playCount": 6278,
+        "commentCount": 109,
         "subscription": 2778,
         "duration": 111,
         "postTime": "2025-05-14T09:05:34.004Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 6,
-        "openRate": 2.0845932325413967,
-        "lastReleaseDateDayCount": 5.434014328703704
+        "openRate": 2.259899208063355,
+        "lastReleaseDateDayCount": 6.4340031481481486
+      },
+      {
+        "title": "一场发生在午后，关于音乐的愉悦对谈。",
+        "podcastID": "bf3535a81c4c9c6700eac6bd0b3b3c59",
+        "podcastName": "连锁反应chain reaction",
+        "logoURL": "https://xyzrank.justinbot.com/FtHE_nYVu8k7Q-um2_Y4Ou9gJi6i.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/681cd601b7c8a9962c227737",
+        "playCount": 1007,
+        "commentCount": 9,
+        "subscription": 660,
+        "duration": 68,
+        "postTime": "2025-05-08T16:07:20.100Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 2,
+        "openRate": 1.5257575757575759,
+        "lastReleaseDateDayCount": 12.141108518518518
       }
     ],
     "medianValues": {
-      "playCount": 8693,
-      "commentCount": 114,
-      "interactiveRate": 0.015887763634674347,
-      "openRate": 1.3819979455572675,
-      "duration": 104,
-      "lastReleaseDateDayCount": 5.854546782407407
+      "playCount": 7885.5,
+      "commentCount": 114.5,
+      "interactiveRate": 0.014151442820456247,
+      "openRate": 1.4679378531073448,
+      "duration": 86,
+      "lastReleaseDateDayCount": 9.497822060185186
     }
   },
   "type": 3
